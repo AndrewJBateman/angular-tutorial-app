@@ -1,6 +1,6 @@
 # Angular Tutorial App
 
-A simple Angular 7 project to display a list of servers and indicate whether the server is on or offline. Server names can be added to the list.
+A simple Angular 8 app to display a list of servers and indicate whether the server is on or offline. Server names can be added to the list.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -25,9 +25,9 @@ This course project is to help learn about basic Angular concepts, including usi
 
 ## Technologies
 
-* [Angular CLI](https://github.com/angular/angular-cli) v7.0.6
+* [Angular CLI v8.0.1](https://github.com/angular/angular-cli)
 
-* [RxJS Library](https://angular.io/guide/rx-library) v6.3.3 used to handle datastreams and propagation of change using observables.
+* [RxJS Library v6.5.2](https://angular.io/guide/rx-library) used to handle datastreams and propagation of change using observables.
 
 * [Angular Augury Chrome Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) v1.23.0 used for debugging.
 
@@ -36,10 +36,6 @@ This course project is to help learn about basic Angular concepts, including usi
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Code Examples
 
@@ -87,7 +83,7 @@ export class ServerComponent {
 
 ## Status & To-Do List
 
-* Status: simple working app.
+* Status: Working.
 
 * To-Do:
 
