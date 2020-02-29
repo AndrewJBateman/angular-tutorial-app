@@ -25,7 +25,7 @@ This course project is to help learn about basic Angular concepts, including usi
 
 ## Technologies
 
-* [Angular CLI v8.0.1](https://github.com/angular/angular-cli)
+* [Angular v8.0.0](https://angular.io/)
 
 * [RxJS Library v6.5.2](https://angular.io/guide/rx-library) used to handle datastreams and propagation of change using observables.
 
