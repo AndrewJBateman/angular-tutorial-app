@@ -1,6 +1,7 @@
 <!-- databinding used -->
 <p
-  [ngStyle]="{backgroundColor: getColor()}"
-  [ngClass]="{online: serverStatus === 'online'}">
-  {{ 'Server' }} with ID {{ serverId }} is {{ getServerStatus() }}
+  [ngStyle]="{ backgroundColor: getColor() }"
+  [ngClass]="{ online: serverStatus === 'online' }"
+>
+  {{ "Server" }} with ID {{ serverId }} is {{ getServerStatus() }}
 </p>
