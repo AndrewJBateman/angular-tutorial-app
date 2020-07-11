@@ -6,14 +6,17 @@ A simple Angular 9 app to display a list of servers and indicate whether the ser
 
 ## Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Angular Tutorial App](#angular-tutorial-app)
+  * [Table of contents](#table-of-contents)
+  * [General info](#general-info)
+  * [Screenshots](#screenshots)
+  * [Technologies](#technologies)
+  * [Setup](#setup)
+  * [Code Examples](#code-examples)
+  * [Features](#features)
+  * [Status & To-Do List](#status--to-do-list)
+  * [Inspiration](#inspiration)
+  * [Contact](#contact)
 
 ## General info
 
@@ -33,6 +36,7 @@ This course project is to help learn about basic Angular concepts, including usi
 
 ## Setup
 
+* npm i --save-dev @angular-devkit/build-angular
 * Install dependencies by running `npm i`
 * Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files
 * Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build
@@ -61,7 +65,7 @@ export class ServerComponent {
   constructor() {
   this.serverStatus = Math.random() > 0.5 ? 'online' : 'offline';
   }
-  
+
   // function to return the random server status
   getServerStatus() {
     return this.serverStatus;
