@@ -81,7 +81,7 @@ export class ServerComponent {
 
 * Server names can be added via a form-control input field.
 * The background color of each server in the list changes depending on the online status of the server.
-* Updated to latest Angular v10 with dependencies updated & 0 vulnerabilities.
+* Updated to latest Angular v11 with dependencies updated & 0 vulnerabilities.
 
 ## :clipboard: Status & To-Do List
 
