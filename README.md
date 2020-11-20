@@ -1,6 +1,7 @@
 # :zap: Angular Tutorial App
 
-* A simple Angular 10 app to display a list of servers and indicate whether the server is on or offline. Server names can be added to the list.
+* A simple Angular 11 app to display a list of servers and indicate whether the server is on or offline.
+* Server names can be added to the list.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -20,7 +21,7 @@
 
 ## :books: General info
 
-This course project is to help learn about basic Angular concepts, including using components, data & property binding, the formsmodule etc.
+* This course project is to help learn about basic Angular concepts, including using components, data & property binding, the formsmodule etc.
 
 ## :camera: Screenshots
 
@@ -28,7 +29,7 @@ This course project is to help learn about basic Angular concepts, including usi
 
 ## :signal_strength: Technologies
 
-* [Angular v10](https://angular.io/)
+* [Angular v11](https://angular.io/)
 * [RxJS Library v6](https://angular.io/guide/rx-library) used to handle datastreams and propagation of change using observables.
 * [Angular Augury Chrome Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) v1.23.0 used for debugging.
 
