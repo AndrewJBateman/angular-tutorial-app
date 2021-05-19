@@ -1,9 +1,13 @@
 # :zap: Angular Tutorial App
 
-* A simple Angular 11 app to display a list of servers and indicate whether the server is on or offline.
+* A simple Angular app to display a list of servers and indicate whether the server is on or offline.
 * Server names can be added to the list.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/angular-tutorial-app?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/angular-tutorial-app?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/angular-tutorial-app?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/angular-tutorial-app?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -29,7 +33,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular v11](https://angular.io/)
+* [Angular v12](https://angular.io/)
 * [RxJS Library v6](https://angular.io/guide/rx-library) used to handle datastreams and propagation of change using observables.
 * [Angular Augury Chrome Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) v1.23.0 used for debugging.
 
@@ -85,13 +89,17 @@ export class ServerComponent {
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working
+* Status: Working. Updated may 2021
 * To-Do: Nothing
 
 ## :clap: Inspiration
 
 * All code is from [Maximilian Schwarzmüller's Angular course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) - now 2020 edition
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
