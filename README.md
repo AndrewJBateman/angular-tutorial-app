@@ -33,7 +33,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular v12](https://angular.io/)
+* [Angular v13](https://angular.io/)
 * [RxJS Library v6](https://angular.io/guide/rx-library) used to handle datastreams and propagation of change using observables.
 * [Angular Augury Chrome Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) v1.23.0 used for debugging.
 
@@ -87,12 +87,12 @@ export class ServerComponent {
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working. Updated may 2021
+* Status: Working.
 * To-Do: Nothing
 
 ## :clap: Inspiration
 
-* All code is from [Maximilian Schwarzmüller's Angular course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) - now 2020 edition
+* All code is from [Maximilian Schwarzmüller's Angular course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) - now 2022 edition
 
 ## :file_folder: License
 
